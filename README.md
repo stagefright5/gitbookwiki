@@ -4,8 +4,6 @@
 
 ### API tutorial {#title-text}
 
-### API tutorial {#title-text}
-
 * [Start MongoDB and RESTHeart](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-StartMongoDBandRESTHeart)
 * [Create a Database ](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-CreateaDatabase)
 * [Create a Collection](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-CreateaCollection)
