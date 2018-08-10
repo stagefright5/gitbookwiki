@@ -1,6 +1,6 @@
 # Initial page
 
-## titled thi s from g Account
+## titled thi s from g Ac
 
 ### API tutorial {#title-text}
 
