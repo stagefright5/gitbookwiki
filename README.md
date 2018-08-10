@@ -1,6 +1,6 @@
 # Initial page
 
-## titled this from g Ac
+## 
 
 In this tutorial we’ll use RESTHeart to create a db, a collection and a couple of documents in 
 
