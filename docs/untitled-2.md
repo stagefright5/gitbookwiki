@@ -6,12 +6,12 @@
 
 ### API tutorial {#title-text}
 
-* [Start MongoDB and RESTHeart](../documentation/api-tutorial.md#APItutorial-StartMongoDBandRESTHeart)
-* [Create a Database ](../documentation/api-tutorial.md#APItutorial-CreateaDatabase)
-* [Create a Collection](../documentation/api-tutorial.md#APItutorial-CreateaCollection)
+* [Start MongoDB and RESTHeart](https://github.com/stagefright5/gitbookwiki/tree/f53e25e1d66a93cb12480eaac12c96816ec6d6dc/documentation/api-tutorial.md#APItutorial-StartMongoDBandRESTHeart)
+* [Create a Database ](https://github.com/stagefright5/gitbookwiki/tree/f53e25e1d66a93cb12480eaac12c96816ec6d6dc/documentation/api-tutorial.md#APItutorial-CreateaDatabase)
+* [Create a Collection](https://github.com/stagefright5/gitbookwiki/tree/f53e25e1d66a93cb12480eaac12c96816ec6d6dc/documentation/api-tutorial.md#APItutorial-CreateaCollection)
 * [Create two Documents](https://softinstigate.atlassian.net/wiki/spaces/RH/pages/9207832/API+tutorial#APItutorial-CreatetwoDocuments)
-* [Get all Documents from the Collection](../documentation/api-tutorial.md#APItutorial-GetallDocumentsfromtheCollection)
-* [GET Document by URL \(by id\)](../documentation/api-tutorial.md#APItutorial-GetallDocumentsfromtheCollection)
+* [Get all Documents from the Collection](https://github.com/stagefright5/gitbookwiki/tree/f53e25e1d66a93cb12480eaac12c96816ec6d6dc/documentation/api-tutorial.md#APItutorial-GetallDocumentsfromtheCollection)
+* [GET Document by URL \(by id\)](https://github.com/stagefright5/gitbookwiki/tree/f53e25e1d66a93cb12480eaac12c96816ec6d6dc/documentation/api-tutorial.md#APItutorial-GetallDocumentsfromtheCollection)
 
 In this tutorial we’ll use RESTHeart to create a db, a collection and a couple of documents in MongoDB.
 
