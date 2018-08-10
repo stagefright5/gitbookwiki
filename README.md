@@ -1,6 +1,6 @@
 # Edited Initial page
 
-## Untitled
+## titled
 
 ### API tutorial {#title-text}
 
