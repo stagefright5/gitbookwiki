@@ -1,6 +1,6 @@
 # Initial page
 
-## titled thi s from g Ac
+## titled this from g Ac
 
 ### API tutorial {#title-text}
 
