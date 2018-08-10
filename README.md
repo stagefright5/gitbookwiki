@@ -2,18 +2,7 @@
 
 ## titled this from g Ac
 
-### API tutorial {#title-text}
-
-* [Start MongoDB and RESTHeart](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-StartMongoDBandRESTHeart)
-* [Create a Database ](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-CreateaDatabase)
-* [Create a Collection](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-CreateaCollection)
-* [Create two Documents](https://softinstigate.atlassian.net/wiki/spaces/RH/pages/9207832/API+tutorial#APItutorial-CreatetwoDocuments)
-* [Get all Documents from the Collection](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-GetallDocumentsfromtheCollection)
-* [GET Document by URL \(by id\)](https://github.com/stagefright5/gitbookwiki/tree/81e432d6638f4dcf8a88acebbe34ba0e15d83202/documentation/api-tutorial.md#APItutorial-GetallDocumentsfromtheCollection)
-
-In this tutorial we’ll use RESTHeart to create a db, a collection and a couple of documents in MongoDB.
-
-RESTHeart represents resources as HAL+JSON documents. Before going further you might want to check:
+In this tutorial we’ll use RESTHeart to create a db, a collection and a couple of documents in 
 
 * [Installation and Setup](https://softinstigate.atlassian.net/wiki/spaces/RH/pages/9207828/Installation+and+Setup)
 * [Resource Representation Format](https://softinstigate.atlassian.net/wiki/spaces/RH/pages/9207888/Representation+Format)
